@@ -8,3 +8,5 @@ Este repositorio sirve como:
 - **Portfolio técnico**: Documentación de proyectos y experiencias
 - **Knowledge base**: Apuntes y recursos de aprendizaje continuo
 - **Showcase de skills**: Demostración práctica de competencias técnicas
+
+**Nota**: Poner en .claude/skills, de allí el archivo .skill deberá ser descomprimido por Claude Code.
